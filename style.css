@@ -1,0 +1,88 @@
+body {
+    /* background-image: linear-gradient(180deg, #000000, #0f34db); */
+    background-image: url("https://images2.pixlis.com/background-image-checkers-chequered-checkered-squares-seamless-tileable-dark-blue-bermuda-2363e8.png");
+    font-family:'Berkshire Swash', cursive;
+}
+
+
+#container {
+    background-color: #000000;
+    min-height: 75%;
+    padding: 15px;
+    border-width:10px;
+    border-style: solid;
+    border-color: indigo;
+    margin: 20px auto;
+    width: 85%;
+}
+
+#container1 {
+    background-color: #fff;
+    min-height: 300px;
+    padding: 15px;
+    border-width:10px;
+    border-style: solid;
+    border-color: indigo;
+    margin: 20px auto;
+    width: 85%;
+    
+
+
+
+}
+#container2 {
+    background-color: #fff;
+    min-height: 300px;
+    padding: 15px;
+    border-width:10px;
+    border-style: solid;
+    border-color: indigo;
+    margin: 20px auto;
+    width: 85%;
+    
+
+
+
+}
+h1{
+    color:#ffffff;display: inline-block;
+}
+
+ul{
+    list-style: none;
+}
+
+ul a{
+    color: #ffffff;
+    padding: 10px; 
+    background-color: #82b1ff;
+    text-decoration: none;
+}
+
+
+#container3 {
+    background-color:indigo;
+    min-height: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin:0px;
+    padding:0px;
+    right:0;
+}
+#containerTop {
+    background-color:indigo;
+    min-height: 100px;
+    position: fixed;
+   top : 0;
+    width: 100%;
+    margin:0px;
+    margin-bottom: 110px;
+    padding:0px;
+    right:0;
+}
+
+
+nav{
+    display: inline-block
+}
